@@ -1,2 +1,4 @@
-This is an example file for the MLOps course.
-Created as part of the git branching exercise. 
+Completely new content in G24AIT173 branch (X-1)!
+This file has been entirely replaced.
+Learning Git operations in MLOps course.
+Branch management and conflict resolution are important skills. 
