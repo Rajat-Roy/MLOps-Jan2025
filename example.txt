@@ -1,4 +1,13 @@
+Combined content from both branches:
+
+From G24AIT173 (X-1):
 Completely new content in G24AIT173 branch (X-1)!
 This file has been entirely replaced.
 Learning Git operations in MLOps course.
-Branch management and conflict resolution are important skills. 
+Branch management and conflict resolution are important skills.
+
+From G24AIT175 (X+1):
+This is an example file for the MLOps course.
+Created as part of the git branching exercise.
+Adding this new line in the G24AIT175 branch (X+1).
+Learning about Git branching and merging!
