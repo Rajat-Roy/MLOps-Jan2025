@@ -1,0 +1,2 @@
+This is an example file for the MLOps course.
+Created as part of the git branching exercise. 
